@@ -7,10 +7,13 @@ with any resources we think would be of public good. We publish everything under
 the [MIT license](https://opensource.org/license/mit).
 
 🔗 [Join our public Discord server!](https://discord.gg/sMG3jQUeNW)
+🔗 [Help translate Plexverse!](https://github.com/Plexverse/translations)
 
 ## Public Projects
 
-- [map-parser](https://github.com/Plexverse/map-parser) - parse maps into the Mineplex Studio zip format.
+- [translations](https://github.com/Plexverse/translations) - Translations for the Plexverse Minecraft server, allowing us to localise the experience of players.
+- [map-parser](https://github.com/Plexverse/map-parser) - Spigot based Map parsing plugin for building worlds for the Mineplex Studio Ecosystem
+- [join-links](https://github.com/Plexverse/join-links) - Forward players to instances on the Plexverse Minecraft server from web urls using cloudflare pages
 
 ## Contacts
 
