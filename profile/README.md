@@ -7,6 +7,7 @@ with any resources we think would be of public good. We publish everything under
 the [MIT license](https://opensource.org/license/mit).
 
 🔗 [Join our public Discord server!](https://discord.gg/sMG3jQUeNW)
+
 🔗 [Help translate Plexverse!](https://github.com/Plexverse/translations)
 
 ## Public Projects
