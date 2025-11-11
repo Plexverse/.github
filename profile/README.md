@@ -1,5 +1,5 @@
 <img width="4096" height="843" alt="Github Repository Header" src="https://github.com/user-attachments/assets/526f8596-d572-4244-84c0-0be3191f0175" />
-
+<br>
 This Github Organization is dedicated to our open source projects, to help the Mineplex Studios development community
 with any resources we think would be of public good. We publish everything under
 the [MIT license](https://opensource.org/license/mit).
